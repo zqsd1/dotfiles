@@ -1,0 +1,2 @@
+/mnt/stockage/World of Warcraft/_retail_/Interface/AddOns
+/mnt/stockage/World of Warcraft/_classic_/Interface/AddOns

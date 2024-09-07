@@ -1,0 +1,11 @@
+[Nemo Action]
+Active=true
+Name=extraire vers addon
+Comment=extraire %N vers addon
+Exec=<ToAddons.sh %F>
+Icon-Name=battlenet
+Selection=notnone
+Extensions=zip;
+EscapeSpaces=true
+
+
