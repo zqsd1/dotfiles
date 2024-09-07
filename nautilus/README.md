@@ -1,8 +1,11 @@
-```.local/share/nautlus/scripts/terminal
+.local/share/nautlus/scripts/terminal:
+```
 #!/bin/bash
 gnome-terminal
 ```
-```.local/share/nautlus/scripts/vscode
+
+.local/share/nautlus/scripts/vscode:
+```
 #!/bin/bash
 if [[ -z $1 ]];then
 	code .
