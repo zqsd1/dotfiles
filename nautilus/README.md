@@ -16,7 +16,8 @@ fi
 
 `chmod +x terminal`
 
-```.config/nautilus/scripts-accels
+.config/nautilus/scripts-accels:
+```
 F4 terminal
 F3 vscode
 ```
