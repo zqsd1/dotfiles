@@ -1,5 +1,5 @@
 #!/bin/bash
-path=$(cat /home/horus/.local/share/nemo/actions/pathlist.txt | zenity --list --title="choose a path" --column="path")
+path=$(cat $HOME/.local/share/nemo/actions/pathlist.txt | zenity --list --title="choose a path" --column="path")
 
 for variable in $@
 do
